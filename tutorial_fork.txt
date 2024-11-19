@@ -1,0 +1,8 @@
+Primeiro passo - criar o fork do repo que quero trabaiar
+Segundo passo - clone o fork que fiz
+Terceiro passo - criar um remote com o repo que quero colaborar git remote add <nome do remote> <link>
+Quarto passo -  Faça as alterações desejadas em uma branch diferente, 
+Quinto passo - Crie um pull request do seu fork pro repositorio original https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request
+
+Comandos
+checar remotes = git remote -v
