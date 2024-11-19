@@ -1,0 +1,21 @@
+   git https://github.com/rodrigosantoscosta/tep_2024.git
+   git clone = https://github.com/rodrigosantoscosta/tep_2024.git
+   git clone  https://github.com/rodrigosantos
+   cd tep_2024/
+   git status
+   git remote -v
+   git remote add https://github.com/AlexanderBaxendale/tep_2024.git upstream
+   git remove add upstream https://github.com/AlexanderBaxendale/tep_2024.git
+   git remote add upstream https://github.com/AlexanderBaxendale/tep_2024.git
+   git remove -v
+   git remote -v
+   git pull origin upstream
+   git pull upstream/main
+   git status
+   code texto.txt
+   vi texto.txt
+   git add .
+   git commit -m 'Testando fork'
+   git push
+   git push origin upstream
+   git push upstream main
